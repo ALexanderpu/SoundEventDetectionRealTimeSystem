@@ -28,4 +28,4 @@ install:
     fi
   - pip install tensorflow
 script:
-  - python setup.py test
+  - python hello.py
